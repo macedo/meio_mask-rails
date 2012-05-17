@@ -1,0 +1,1 @@
+require "meio_mask/rails"
